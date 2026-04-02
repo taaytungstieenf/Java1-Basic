@@ -6,16 +6,18 @@ public class basic {
 
 		System.out.println("PART A - JAVA BASIC");
 		System.out.println("01. Programming Environment");
-		System.out.println("02. Variables");
-		System.out.println("03. Object-Oriented Java");
-		System.out.println("04. Conditionals and Control Flows");
-		System.out.println("05. Arrays and ArrayLists");
-		System.out.println("06. Loops");
-		System.out.println("07. String Methods");
-		System.out.println("08. Access, Encapsulation, and Static Methods");
-		System.out.println("09. Inheritance and Polymorphysm");
-		System.out.println("10. Debugging");
-		System.out.println("11. Two-dimensonal Arrays");
+		System.out.println("02. Project Management with Maven");
+		System.out.println("03. Project Management with Gradle");
+		System.out.println("04. Variables");
+		System.out.println("05. Object-Oriented Java");
+		System.out.println("06. Conditionals and Control Flows");
+		System.out.println("07. Arrays and ArrayLists");
+		System.out.println("08. Loops");
+		System.out.println("09. String Methods");
+		System.out.println("10. Access, Encapsulation, and Static Methods");
+		System.out.println("11. Inheritance and Polymorphysm");
+		System.out.println("12. Debugging");
+		System.out.println("13. Two-dimensonal Arrays");
 		System.out.println("\n");
 	}
 }

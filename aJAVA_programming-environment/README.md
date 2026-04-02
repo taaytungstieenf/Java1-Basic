@@ -30,4 +30,4 @@ aJAVA_programming-environment
 			  		javac -d bin src/com/example/partBjavaIntermediate/intermediate.java
 			  		javac -d bin src/com/example/partCjavaAdvanced/advanced.java
 
-+ Run Main		: 	java -cp bin com.example.Main-
++ Run Main		: 	java -cp bin com.example.Main
